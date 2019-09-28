@@ -1,3 +1,6 @@
+def introduction (name) 
+  hi my name is#{mame} 
+end 
 
 
 
